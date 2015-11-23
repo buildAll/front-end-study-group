@@ -1,13 +1,23 @@
-# Table Of Contents
+# Introduce
 
-* [初级学习内容](#初级学习内容)
-* [中级学习内容-待更新](#中级学习内容)
+这个repo是作为web前端工程师学习使用。目前repo刚刚开始，内容还不是很多，正在不断完善中。repo假设所有参与者都已经熟悉掌握html，css，js等基础内容。
+
+用法：repo中Point中列出了web前端工程师在进阶过程中需要学习的技术和对应技术的相关学习材料，你有2种方式参与
+
+1.  学习：直接学习Point中的内容 或提出你关注的但目前还未存在的Point（[提供Point](https://github.com/coolnameismy/front-end-study-group/issues/4)）
+2.  把你自己学习Point写成文章分享给大家（[分享方式？](https://github.com/coolnameismy/front-end-study-group/issues/3)）
+
+
+## Table Of Contents
+
+* [Point-初级](#初级学习内容)
+* [Point-中级-待更新](#中级学习内容)
 * [学习资源](#学习资源)
-* [学习小组成员](#学习小组成员)
+* [学习小组成员和成员技术博客](#学习小组成员)
 * [期待](#期待)
 
 
-## 初级学习内容
+##  Point-初级
 
 -	技术博客搭建
 -	如何使用github高效的学习
@@ -30,6 +40,8 @@
 -	[stackoverflow](http://stackoverflow.com/)
 -	[javascriptissexy](http://javascriptissexy.com/)
 -	[css编程规范](http://cssguidelin.es/)
+-	[ccs guide](http://cssguidelin.es/)
+
 
 在线课程
 
@@ -42,6 +54,13 @@
 -	[阮一峰](http://www.ruanyifeng.com/blog/)
 
 
-## 小组成员的技术博客
+## 学习小组成员和成员技术博客
 
-- [赵彪](https://buildall.github.io/)。[旧](http://blog.csdn.net/developer_biao)
+- 刘彦玮 [blog](http://liuyanwei.jumppo.com/index.html)
+- 赵彪 [新](https://buildall.github.io/),[旧](http://blog.csdn.net/developer_biao)
+- 周明 [CSDN](http://blog.csdn.net/zm3250530)
+
+## 期待
+
+期待大家积极分享point和相关文章，期待有更多的人参与进来一起学习、交流、成长。
+
